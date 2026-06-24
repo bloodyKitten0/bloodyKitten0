@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1> you can call me Bloody kitten for now </h1>
+I am still learning programing and would put my projects here
 
 <!--
 **bloodyKitten0/bloodyKitten0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
